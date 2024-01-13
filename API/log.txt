@@ -1,0 +1,7 @@
+Array
+(
+    [userId] => 1
+    [accountSid] => 123
+    [authToken] => 123
+    [twilioNumber] => 123
+)
