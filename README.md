@@ -1,6 +1,6 @@
-# Meu Projeto
+# 🚀 ZapSender
 
-Bem-vindo ao Meu Projeto! Este é um sistema incrível que permite configurar e gerenciar as integrações com Twilio e Evolution API para envio de mensagens.
+Bem-vindo ao ZapSender! Este é um sistema incrível que permite configurar e gerenciar as integrações com Twilio e Evolution API para envio de mensagens.
 
 ## Recursos
 
@@ -19,7 +19,7 @@ Certifique-se de ter os seguintes requisitos antes de começar:
 
 ## Configuração
 
-1. Clone o repositório: `git clone https://github.com/seu-usuario/meu-projeto.git`
+1. Clone o repositório: `https://github.com/innovationstudios/ZapSender.git/`
 2. Configure o banco de dados no arquivo `config.php`.
 3. Configure as chaves Twilio e Evolution API no arquivo `API/info.php` e `API/Evolution/EvoSettings.php` respectivamente.
 
@@ -36,4 +36,3 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue para r
 ## Licença
 
 Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE.md](LICENSE.md) para detalhes.
-
