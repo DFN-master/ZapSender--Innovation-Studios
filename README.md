@@ -20,8 +20,9 @@ Certifique-se de ter os seguintes requisitos antes de começar:
 ## Configuração
 
 1. Clone o repositório: `https://github.com/innovationstudios/ZapSender.git/`
-2. Configure o banco de dados no arquivo `config.php`.
-3. Configure as chaves Twilio e Evolution API no arquivo `API/info.php` e `API/Evolution/EvoSettings.php` respectivamente.
+2. Faça a conexão com o banco, em, /install/
+3. Configure as chaves Twilio e Evolution API no painel
+   
 
 ## Uso
 
