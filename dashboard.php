@@ -1,6 +1,5 @@
 <?php
 require "API/componentes.php";
-$conn = new mysqli('localhost', 'root', 'senha123', 'send');
 
 // Consulta para contar a quantidade de contatos salvos
 $sqlContatos = "SELECT COUNT(*) as totalContatos FROM contacts";

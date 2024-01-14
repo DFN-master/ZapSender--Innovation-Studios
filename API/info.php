@@ -3,9 +3,7 @@
 ini_set('display_errors', 1);
 ini_set('display_startup_errors', 1);
 error_reporting(E_ALL);
-
-$conn = new mysqli('localhost', 'root', 'senha123', 'send');
-
+include("../install/addons/config.php");
 // Função para salvar as configurações do Twilio na tabela de usuários
 function saveTwilioConfig($userId, $accountSid, $authToken, $twilioNumber, $conn) {
     // Query SQL para atualizar as informações do Twilio para o usuário

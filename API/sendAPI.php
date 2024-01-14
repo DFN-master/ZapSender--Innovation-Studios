@@ -4,7 +4,7 @@ ini_set('display_errors', 1);
 ini_set('display_startup_errors', 1);
 error_reporting(E_ALL);
 
-$conn = new mysqli('localhost', 'root', 'senha123', 'send');
+include("../install/addons/config.php");
 
 // Função para obter todos os contatos do usuário
 function getAllContacts($userId, $conn) {

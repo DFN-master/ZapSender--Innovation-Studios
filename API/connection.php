@@ -2,10 +2,8 @@
 
 session_start();
 
-$servername = "localhost";
-$username = "root";
-$password = "senha123";
-$dbname = "send";
+include("../install/addons/config.php");
+
 
 $conn = new mysqli($servername, $username, $password, $dbname);
 

@@ -2,7 +2,7 @@
 // Inicie a sessão
 session_start();
 
-require 'connection.php';
+include("../install/addons/config.php");
 
 
 // Verifique se o usuário está autenticado

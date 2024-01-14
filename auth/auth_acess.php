@@ -4,7 +4,8 @@ session_start();
 header('Content-Type: application/json');
 
 
-require "../API/connection.php";
+include("../install/addons/config.php");
+
 
 $conn = new mysqli($servername, $username, $password, $dbname);
 
