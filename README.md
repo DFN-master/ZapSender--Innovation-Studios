@@ -32,6 +32,7 @@ Certifique-se de ter os seguintes requisitos antes de começar:
 ## Contribuição
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue para relatar problemas ou propor melhorias.
+Segue meu pix: victorgd199@hotmail.com Qualquer valor é bem vindo!
 
 ## Licença
 
